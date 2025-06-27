@@ -17,5 +17,5 @@ Atuar como programador júnior ou estagiário na área de desenvolvimento, contr
 ## 📫 Contato
 - ✉️ Email: leandroklink13@gmail.com  
 - 📱 WhatsApp: (67) 98129-2853  
-- 🔗 [LinkedIn](www.linkedin.com/in/leandro-klink-freires-3044892a2)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/leandro-klink-freires-3044892a2)  
 - 🧑‍💻 [Meus projetos aqui no GitHub](https://github.com/leandroklink)
