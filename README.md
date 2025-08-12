@@ -3,7 +3,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (IFMS)  
 🧠 Apaixonado por tecnologia, programação e aprendizado contínuo  
 💻 Buscando minha primeira oportunidade na área de TI  
-🚀 Conhecimento em Python, SQL, HTML, CSS, redes de computadores e manutenção de computadores
+🚀 Conhecimento em Python, JavaScript, SQL, HTML, CSS, redes de computadores e manutenção de computadores
 
 ## 🛠️ Tecnologias que estou estudando:
 - Python (lógica, automação, projetos pessoais)
