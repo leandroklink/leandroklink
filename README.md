@@ -10,6 +10,7 @@
 - SQL (consultas, joins, filtros)
 - HTML e CSS (páginas web)
 - Git e GitHub (versionamento de código)
+- JavaScript (Construção de páginas web)
 
 ## 📌 Objetivo Profissional
 Atuar como programador júnior ou estagiário na área de desenvolvimento, contribuindo com projetos reais, aprendendo com a equipe e crescendo na carreira de tecnologia.
