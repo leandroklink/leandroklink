@@ -1,4 +1,4 @@
-# Olá, eu sou o Leandro Klink Freires 👋
+# Olá, eu sou o Leandro Klink Freires!
 
 - Estudante de Análise e Desenvolvimento de Sistemas (IFMS)  
 - Apaixonado por tecnologia, programação e aprendizado contínuo  
