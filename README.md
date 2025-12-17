@@ -3,14 +3,15 @@
 - Estudante de Análise e Desenvolvimento de Sistemas (IFMS)  
 - Apaixonado por tecnologia, programação e aprendizado contínuo  
 - Buscando minha primeira oportunidade na área de TI  
-- Conhecimento em Python, JavaScript, SQL, HTML, CSS, redes de computadores e manutenção de computadores
+- Conhecimento em Python, Java, JavaScript, SQL, HTML, CSS, redes de computadores e manutenção de computadores
 
 ## Tecnologias que estou estudando:
 - Python (lógica, automação, projetos pessoais)
 - SQL (consultas, joins, filtros)
 - HTML e CSS (páginas web)
 - Git e GitHub (versionamento de código)
-- JavaScript (Construção de páginas web)
+- JavaScript (Construção de páginas web)\
+- Java (classes, objetos e métodos)
 
 ## Objetivo Profissional
 Atuar como programador júnior ou estagiário na área de desenvolvimento, contribuindo com projetos reais, aprendendo com a equipe e crescendo na carreira de tecnologia.
