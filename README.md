@@ -7,8 +7,6 @@
 
 ## Tecnologias que estou estudando:
 - Python (lógica, automação, projetos pessoais)
-- SQL (consultas, joins, filtros)
-- HTML e CSS (páginas web)
 - Git e GitHub (versionamento de código)
 - JavaScript (Construção de páginas web)
 - Java (classes, objetos e métodos)
