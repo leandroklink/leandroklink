@@ -1,21 +1,42 @@
 # Olá, eu sou o Leandro Klink Freires!
 
-- Estudante de Análise e Desenvolvimento de Sistemas (IFMS)  
-- Apaixonado por tecnologia, programação e aprendizado contínuo  
-- Buscando minha primeira oportunidade na área de TI  
-- Conhecimento em Python, Java, JavaScript, SQL, HTML, CSS, redes de computadores e manutenção de computadores
+Sou estudante de **Análise e Desenvolvimento de Sistemas (IFMS)**, com formação técnica em Informática e experiência prática em **TI, automação industrial e suporte a sistemas**.
 
-## Tecnologias que estou estudando:
-- Python (lógica, automação, projetos pessoais)
-- Git e GitHub (versionamento de código)
-- JavaScript (Construção de páginas web)
-- Java (classes, objetos e métodos)
+Atualmente atuo na área industrial, tendo contato com **infraestrutura, redes, sistemas de supervisão e automação**, enquanto sigo me desenvolvendo como programador.
+
+---
+
+## Áreas de Interesse
+- Desenvolvimento de software
+- Automação e sistemas industriais
+- Infraestrutura, redes e servidores
+- Dados e integração entre sistemas
+
+---
+
+## Tecnologias e Conhecimentos
+- **Python** (lógica, automação, projetos práticos)
+- **Java** (POO, classes, métodos, projetos acadêmicos)
+- **SQL** (modelagem e consultas)
+- **Git & GitHub** (versionamento)
+- **Redes de computadores** (conceitos e prática)
+- **Sistemas industriais e supervisão**
+- HTML e CSS (conhecimento básico para interfaces)
+
+---
 
 ## Objetivo Profissional
-Atuar como programador júnior ou estagiário na área de desenvolvimento, contribuindo com projetos reais, aprendendo com a equipe e crescendo na carreira de tecnologia.
+Atuar como **Desenvolvedor Júnior / Estagiário em TI**, ou em funções que envolvam **programação, sistemas, automação e tecnologia**, contribuindo com projetos reais e evoluindo tecnicamente.
+
+---
+
+## Projetos
+Aqui no GitHub você encontrará projetos focados em aprendizado prático, lógica de programação, integração de sistemas e aplicações voltadas à realidade de TI.
+
+👉 [Ver meus projetos](https://github.com/leandroklink)
+
+---
 
 ## Contato
--  Email: leandroklink13@gmail.com  
-- WhatsApp: (67) 98129-2853  
-- [LinkedIn](https://www.linkedin.com/in/leandro-klink-freires-3044892a2)  
-- [Meus projetos aqui no GitHub](https://github.com/leandroklink)
+- **Email:** leandroklink13@gmail.com  
+- **LinkedIn:** [linkedin.com/in/leandro-klink-freires-3044892a2](https://www.linkedin.com/in/leandro-klink-freires-3044892a2)
