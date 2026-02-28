@@ -21,7 +21,7 @@ Atualmente atuo na área industrial, tendo contato com **infraestrutura, redes, 
 - **Git & GitHub** (versionamento)
 - **Redes de computadores** (conceitos e prática)
 - **Sistemas industriais e supervisão**
-- HTML e CSS (conhecimento básico para interfaces)
+- **HTML e CSS** (conhecimento básico para interfaces)
 
 ---
 
