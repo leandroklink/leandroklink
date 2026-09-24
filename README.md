@@ -33,7 +33,8 @@ Atuar como **Desenvolvedor Júnior / Estagiário em TI**, ou em funções que en
 ## Projetos
 Aqui no GitHub você encontrará projetos focados em aprendizado prático, lógica de programação, integração de sistemas e aplicações voltadas à realidade de TI.
 
-👉 [Ver meus projetos](https://github.com/leandroklink)
+👉 [Ver meu portifóio](https://github.com/leandroklink)
+
 
 ---
 
